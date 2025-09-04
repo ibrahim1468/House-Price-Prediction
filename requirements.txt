@@ -1,8 +1,14 @@
-pandas
+pathlib
+io
+json
+urllib
 numpy
+pandas
 scikit-learn
-streamlit
+lightgbm
+catboost
 joblib
+streamlit
 matplotlib
 seaborn
-scipy
+PIL
