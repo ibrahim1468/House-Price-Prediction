@@ -4,7 +4,6 @@ scikit-learn
 catboost
 joblib
 streamlit
-matplotlib>=3.10
-seaborn>=0.13
+matplotlib
+seaborn
 Pillow
-rich
