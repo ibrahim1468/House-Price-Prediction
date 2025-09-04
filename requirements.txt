@@ -1,14 +1,13 @@
-urllib
 numpy
 pandas
 scikit-learn
-lightgbm
 catboost
 joblib
 streamlit
 matplotlib
 seaborn
 PIL
+
 
 
 
