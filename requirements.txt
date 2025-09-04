@@ -1,5 +1,4 @@
 pathlib
-io
 json
 urllib
 numpy
@@ -12,3 +11,4 @@ streamlit
 matplotlib
 seaborn
 PIL
+
