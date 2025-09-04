@@ -2,9 +2,10 @@ scikit-learn
 numpy
 pandas
 catboost
-streamlit
+scikit-learn==1.3.2
 joblib
 matplotlib
 seaborn
 Pillow
+
 
